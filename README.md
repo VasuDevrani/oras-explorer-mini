@@ -1,6 +1,6 @@
 # oras-explorer-mini
 
-<img width="700" alt="image" src="https://github.com/VasuDevrani/oras-explorer-mini/assets/101383635/8476cd0f-64a6-41b3-85c1-ee4d436d9eee">
+<img width="700" alt="image" src="https://github.com/VasuDevrani/oras-explorer-mini/assets/101383635/78827ec5-42a5-4308-99b2-50682f14fdc2">
 
 ## Run locally
 - `git clone https://github.com/VasuDevrani/oras-explorer-mini.git`
