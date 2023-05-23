@@ -1,0 +1,12 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme : "hugo-hero-theme"
+
+build:
+  command: go build -o ./public/go ./go/*.go
+
+deployment:
+  targets:
+    - name: My Go Code
+      command: go run ./go/api.go
